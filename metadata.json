@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Editais e Chatbot com IA",
+  "description": "Uma aplicação para analisar editais de licitação e conversar com um chatbot inteligente, com funcionalidade de texto para fala.",
+  "requestFramePermissions": []
+}
